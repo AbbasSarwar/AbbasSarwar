@@ -14,10 +14,11 @@ Greetings! As a dedicated student at Microverse, I am immersed in the exciting w
 - 💬 Ping me about <b>HTML, CSS and JAVASCRIPT</b>.
 #### 📫 Reach me: <b>abbassarwar100@gmail.com</b>.
 
-## **Tools** 🛠 
+## **Languages and Tools** 🛠 
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 
 ## STATS 🤜
 
