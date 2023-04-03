@@ -19,6 +19,9 @@ Greetings! As a dedicated student at Microverse, I am immersed in the exciting w
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+![BOOTSTRAP](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=136aa0)
+![HTML5](https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=136aa0)
+![JAVASCRIPT](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 
 ## STATS 🤜
 
