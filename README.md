@@ -3,7 +3,7 @@
 #### Full-stack Developer.
 As a full-stack developer, I consistently choose React for the front-end and Ruby on Rails for the back-end. I have extensive experience with PostgreSQL for database management, enabling me to seamlessly connect both components to create full-stack applications. I never compromise on functionality and productivity.
 
-https://raw.githubusercontent.com/AbbasSarwar/Assets/main/ezgif.com-crop.gif
+![emoji](https://raw.githubusercontent.com/AbbasSarwar/Assets/main/ezgif.com-crop.gif)
 
 ### 👱‍♂️About Me :
 
