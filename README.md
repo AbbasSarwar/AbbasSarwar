@@ -1,9 +1,9 @@
 ## Hi there, I'm Abbas Sarwar 👋
 
-#### I'm a Front End Developer based in Pakistan.
-Greetings! As a dedicated student at Microverse, I am immersed in the exciting world of full-stack web development. I am passionate about honing my skills and building innovative projects.
+#### Full-stack Developer.
+As a full-stack developer, I consistently choose React for the front-end and Ruby on Rails for the back-end. I have extensive experience with PostgreSQL for database management, enabling me to seamlessly connect both components to create full-stack applications. I never compromise on functionality and productivity.
 
-<img src="https://media.tenor.com/UttC4AITYR4AAAAM/full-stack-developer.gif" style="width: 300px; height:150px;"> <img src="https://media.tenor.com/UToftFAfL1kAAAAM/web-development-web.gif" style="width: 300px; height:150px;">
+<img src="[https://media.tenor.com/UToftFAfL1kAAAAM/web-development-web.gif](https://raw.githubusercontent.com/AbbasSarwar/Assets/main/ezgif.com-crop.gif)" style="width: 100%; height:300px;">
 
 ### 👱‍♂️About Me :
 
@@ -11,7 +11,7 @@ Greetings! As a dedicated student at Microverse, I am immersed in the exciting w
 - ⚙️ I use daily: <b>Visual Studio Code</b>.
 - 🌍 I'm mostly active within the <b>Microverse Community</b>.
 - 🌱 Learning all about <b>Full Stack-Development</b>.
-- 💬 Ping me about <b>HTML, CSS and JAVASCRIPT</b>.
+- 💬 Ping me about <b>HTML5, CSS3 JavaScript, React, Ruby on rails</b>.
 #### 📫 Reach me: <b>abbassarwar100@gmail.com</b>.
 
 ## **Languages and Tools** 🛠 
